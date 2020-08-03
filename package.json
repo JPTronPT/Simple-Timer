@@ -1,0 +1,19 @@
+{
+  "name": "simpletimer",
+  "version": "1.0.0",
+  "description": "A Light and Simple Timer for speedrunning.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Simple-Timer"
+  },
+  "author": "JPTRON",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  },
+  "dependencies": {}
+}

@@ -1,7 +1,6 @@
 const {app, BrowserWindow, globalShortcut} = require('electron');
 const url = require('url');
 const path = require('path');
-const timer = require('./script.js');
 
 function boot()
 {
